@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#16E6D2" stop-opacity="0"/><stop offset=".25" stop-color="#16E6D2"/><stop offset=".5" stop-color="#9B8CFF"/><stop offset=".75" stop-color="#39E8BD"/><stop offset="1" stop-color="#39E8BD" stop-opacity="0"/></linearGradient></defs>
+<line x1="40" y1="12" x2="1160" y2="12" stroke="url(#l)" stroke-width="2"/><circle cy="12" r="11" fill="#16E6D2" opacity=".3"><animate attributeName="cx" values="40;1160;40" dur="7s" repeatCount="indefinite"/></circle><circle cy="12" r="4.5" fill="#FFFFFF"><animate attributeName="cx" values="40;1160;40" dur="7s" repeatCount="indefinite"/></circle>
+</svg>
