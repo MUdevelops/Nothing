@@ -94,36 +94,43 @@
 
 The desktop is the starting point. Open tools from the visual launcher, move through the workspace, or jump directly to a feature with the command palette. The compact icon dock keeps the main tools within reach.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>02A — Splash screen</strong><br />
-      <sub>The NOTHING identity and first visual moment.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/splash%20screen.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/splash%20screen.png" width="100%" alt="NOTHING splash screen" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02B — Main dashboard</strong><br />
-      <sub>The central desktop canvas and quick-access dock.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Main%20dashboard.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Main%20dashboard.png" width="100%" alt="NOTHING main dashboard" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>02C — Application launcher</strong><br />
-      <sub>Search and open Vision, Air Canvas, Gestures, Creative Engine, Local Brain, Voice, and more.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Launcher.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Launcher.png" width="100%" alt="NOTHING application launcher" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02D — Command palette</strong><br />
-      <sub>Keyboard-first navigation with commands and shortcut hints.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/command%20pallette.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/command%20pallette.png" width="100%" alt="NOTHING command palette" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>02A — Splash screen</strong><br />
+  <sub>The NOTHING identity and first visual moment.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/splash%20screen.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/splash%20screen.png" width="92%" alt="NOTHING splash screen" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>02B — Main dashboard</strong><br />
+  <sub>The central desktop canvas and quick-access dock.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Main%20dashboard.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Main%20dashboard.png" width="92%" alt="NOTHING main dashboard" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>02C — Application launcher</strong><br />
+  <sub>Search and open Vision, Air Canvas, Gestures, Creative Engine, Local Brain, Voice, and more.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Launcher.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/Launcher.png" width="92%" alt="NOTHING application launcher" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>02D — Command palette</strong><br />
+  <sub>Keyboard-first navigation with commands and shortcut hints.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/command%20pallette.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/command%20pallette.png" width="92%" alt="NOTHING command palette" /></a>
+</p>
+
+<br />
 
 <p align="center">
   <strong>02E — The icon language</strong><br />
-  <sub>A consistent dock for the environment's main modules.</sub><br />
+  <sub>A consistent dock for the environment's main modules.</sub><br /><br />
   <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/all%20icons%20navbar.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/all%20icons%20navbar.png" width="88%" alt="NOTHING navigation icon dock" /></a>
 </p>
 
@@ -134,20 +141,23 @@ The desktop is the starting point. Open tools from the visual launcher, move thr
 
 Use the camera as an input surface. The Vision module displays live hand landmarks and tracking information, while the Gestures module maps recognized hand poses and movements to in-app actions. Gesture classification is rule-based on the detected landmarks.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03A — Vision</strong><br />
-      <sub>Live camera view, hand landmarks, detection rate, and hand-state details.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/vision.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/vision.png" width="100%" alt="NOTHING Vision live hand tracking" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>03B — Gesture controls</strong><br />
-      <sub>Pointer sensitivity, calibration controls, live recognition state, and configurable gesture mappings.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20controls.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20controls.png" width="100%" alt="NOTHING gesture control mapping interface" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>03A — Vision</strong><br />
+  <sub>Live camera view, hand landmarks, detection rate, and hand-state details.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/vision.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/vision.png" width="92%" alt="NOTHING Vision live hand tracking" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>03B — Gesture controls</strong><br />
+  <sub>Pointer sensitivity, calibration controls, live recognition state, and configurable gesture mappings.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20controls.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20controls.png" width="92%" alt="NOTHING gesture control mapping interface" /></a>
+</p>
+
+<br />
 
 **Interaction examples:** move the pointer, pinch to select or draw, use an open palm to pause, and map recognized gestures to supported in-app actions. These mappings do not execute operating-system commands.
 
@@ -158,20 +168,21 @@ Use the camera as an input surface. The Vision module displays live hand landmar
 
 Bring an image into the workspace and run supported vision models locally. The interface separates image classification from object detection, with controls for model selection, image sizing, and result export.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>04A — Image classification</strong><br />
-      <sub>Classify an image and inspect the ranked labels with confidence scores.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/classify%20object.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/classify%20object.png" width="100%" alt="NOTHING local image classification" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04B — Object detection</strong><br />
-      <sub>Locate objects with bounding boxes, labels, and confidence values.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/object%20detection.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/object%20detection.png" width="100%" alt="NOTHING local object detection" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>04A — Image classification</strong><br />
+  <sub>Classify an image and inspect the ranked labels with confidence scores.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/classify%20object.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/classify%20object.png" width="92%" alt="NOTHING local image classification" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>04B — Object detection</strong><br />
+  <sub>Locate objects with bounding boxes, labels, and confidence values.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/object%20detection.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/object%20detection.png" width="92%" alt="NOTHING local object detection" /></a>
+</p>
 
 <p align="center"><img src="assets/svg/divider.svg" width="100%" alt="" /></p>
 
@@ -180,24 +191,27 @@ Bring an image into the workspace and run supported vision models locally. The i
 
 Turn hand movement into a drawing workflow. Air Canvas supports gesture-based drawing as well as direct pointer interaction, with brush controls and export options for finished work.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>05A — Gesture drawing</strong><br />
-      <sub>Draw through hand tracking and pinch interaction, with color, brush-size, and stabilization controls.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20drawing.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20drawing.png" width="100%" alt="NOTHING gesture drawing in Air Canvas" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>05B — Manual drawing</strong><br />
-      <sub>Direct canvas interaction for drawing without relying on hand tracking.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/manual%20drawing.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/manual%20drawing.png" width="100%" alt="NOTHING manual drawing interface" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>05A — Gesture drawing</strong><br />
+  <sub>Draw through hand tracking and pinch interaction, with color, brush-size, and stabilization controls.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20drawing.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/gesture%20drawing.png" width="92%" alt="NOTHING gesture drawing in Air Canvas" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>05B — Manual drawing</strong><br />
+  <sub>Direct canvas interaction for drawing without relying on hand tracking.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/manual%20drawing.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/manual%20drawing.png" width="92%" alt="NOTHING manual drawing interface" /></a>
+</p>
+
+<br />
 
 <p align="center">
   <strong>05C — Export your canvas</strong><br />
-  <sub>Preview an exported PNG from the drawing workflow.</sub><br />
+  <sub>Preview an exported PNG from the drawing workflow.</sub><br /><br />
   <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/export%20as%20png.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/export%20as%20png.png" width="88%" alt="NOTHING Air Canvas PNG export preview" /></a>
 </p>
 
@@ -208,36 +222,43 @@ Turn hand movement into a drawing workflow. Air Canvas supports gesture-based dr
 
 A Three.js particle playground with selectable visual forms and motion styles. Explore the wave and fluid fields, then switch the particle geometry between sphere, torus, and cube. The panel exposes speed, intensity, particle count, and optional interaction controls.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>06A — Wave field</strong><br />
-      <sub>A flowing particle surface with layered wave motion.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/wave.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/wave.png" width="100%" alt="NOTHING Creative Engine wave particle field" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>06B — Fluid field</strong><br />
-      <sub>A loose, fluid-like particle volume responding to interaction.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/fluid.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/fluid.png" width="100%" alt="NOTHING Creative Engine fluid particle field" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>06C — Sphere particles</strong><br />
-      <sub>A dense spherical particle formation.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/sphere%20particle.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/sphere%20particle.png" width="100%" alt="NOTHING Creative Engine sphere particle geometry" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>06D — Torus particles</strong><br />
-      <sub>A ring-shaped particle structure.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/torus%20particle.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/torus%20particle.png" width="100%" alt="NOTHING Creative Engine torus particle geometry" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>06A — Wave field</strong><br />
+  <sub>A flowing particle surface with layered wave motion.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/wave.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/wave.png" width="92%" alt="NOTHING Creative Engine wave particle field" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>06B — Fluid field</strong><br />
+  <sub>A loose, fluid-like particle volume responding to interaction.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/fluid.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/fluid.png" width="92%" alt="NOTHING Creative Engine fluid particle field" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>06C — Sphere particles</strong><br />
+  <sub>A dense spherical particle formation.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/sphere%20particle.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/sphere%20particle.png" width="92%" alt="NOTHING Creative Engine sphere particle geometry" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>06D — Torus particles</strong><br />
+  <sub>A ring-shaped particle structure.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/torus%20particle.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/torus%20particle.png" width="92%" alt="NOTHING Creative Engine torus particle geometry" /></a>
+</p>
+
+<br />
 
 <p align="center">
   <strong>06E — Cube particles</strong><br />
-  <sub>A cubic particle formation with the same live creative controls.</sub><br />
+  <sub>A cubic particle formation with the same live creative controls.</sub><br /><br />
   <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/cube%20particles.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/cube%20particles.png" width="88%" alt="NOTHING Creative Engine cube particle geometry" /></a>
 </p>
 
@@ -248,24 +269,27 @@ A Three.js particle playground with selectable visual forms and motion styles. E
 
 The Local Brain provides text tasks through locally available Transformers.js models. Voice combines local audio transcription with text-to-speech controls. Model Center is where model files can be imported, inspected, tested, and managed.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>07A — Local Brain agent</strong><br />
-      <sub>Generate, summarize, analyze sentiment, classify, rewrite, and answer questions with a selected local text model.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/local%20brain%20agent.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/local%20brain%20agent.png" width="100%" alt="NOTHING Local Brain agent interface" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>07B — Voice studio</strong><br />
-      <sub>Record and transcribe audio locally, inspect transcription history, and use text-to-speech controls.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/text%20to%20speech%20or%20speech%20to%20text.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/text%20to%20speech%20or%20speech%20to%20text.png" width="100%" alt="NOTHING voice transcription and text-to-speech interface" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>07A — Local Brain agent</strong><br />
+  <sub>Generate, summarize, analyze sentiment, classify, rewrite, and answer questions with a selected local text model.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/local%20brain%20agent.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/local%20brain%20agent.png" width="92%" alt="NOTHING Local Brain agent interface" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>07B — Voice studio</strong><br />
+  <sub>Record and transcribe audio locally, inspect transcription history, and use text-to-speech controls.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/text%20to%20speech%20or%20speech%20to%20text.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/text%20to%20speech%20or%20speech%20to%20text.png" width="92%" alt="NOTHING voice transcription and text-to-speech interface" /></a>
+</p>
+
+<br />
 
 <p align="center">
   <strong>07C — Model Center</strong><br />
-  <sub>Import and manage supported local model assets, check their availability, and test loading.</sub><br />
+  <sub>Import and manage supported local model assets, check their availability, and test loading.</sub><br /><br />
   <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/modelcenter.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/modelcenter.png" width="88%" alt="NOTHING Model Center local model management" /></a>
 </p>
 
@@ -276,20 +300,21 @@ The Local Brain provides text tasks through locally available Transformers.js mo
 
 The Privacy Center makes the local-processing model and browser permissions visible. Settings provide controls for appearance, devices, and performance preferences.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>08A — Privacy Center</strong><br />
-      <sub>Inspect permission state, inference engines, locally loaded models, and observed cross-origin requests.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/privacy.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/privacy.png" width="100%" alt="NOTHING Privacy Center" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>08B — Settings</strong><br />
-      <sub>Configure theme, accent color, camera and microphone devices, and performance preferences.</sub><br /><br />
-      <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/setting.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/setting.png" width="100%" alt="NOTHING settings interface" /></a>
-    </td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <strong>08A — Privacy Center</strong><br />
+  <sub>Inspect permission state, inference engines, locally loaded models, and observed cross-origin requests.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/privacy.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/privacy.png" width="92%" alt="NOTHING Privacy Center" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>08B — Settings</strong><br />
+  <sub>Configure theme, accent color, camera and microphone devices, and performance preferences.</sub><br /><br />
+  <a href="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/setting.png"><img src="https://raw.githubusercontent.com/MUdevelops/Nothing/main/assets/setting.png" width="92%" alt="NOTHING settings interface" /></a>
+</p>
 
 <p align="center"><img src="assets/svg/divider.svg" width="100%" alt="" /></p>
 
